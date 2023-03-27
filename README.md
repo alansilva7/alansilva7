@@ -17,4 +17,4 @@
   
 </div>
    
-![image load fail. please open proxy retry](https://github.com/alansilva7/commit-snake/blob/snk/snk.svg)
+![image load fail. please open proxy retry](https://github.com/alansilva7/alansilva7/blob/snk/snk.svg)
