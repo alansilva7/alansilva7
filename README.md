@@ -1,4 +1,4 @@
-### Olá, eu me chamo Alan da Silva 👋
+### Hi, my name is Alan da Silva!
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alansilva7&layout=compact&show_icons=true&theme=dracula)
 
